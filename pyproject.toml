@@ -1,0 +1,11 @@
+
+[project]
+name = "civicpath-ai"
+version = "0.1.0"
+description = "A government services navigator with transparent eligibility assessment and action planning."
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "uagents[all]==0.25.5",
+]
+
